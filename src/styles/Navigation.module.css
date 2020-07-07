@@ -1,0 +1,26 @@
+nav.main {
+  background-color: #aaa;
+}
+
+nav.main ul {
+  list-style-type: none;
+}
+
+nav.main a {
+  display: block;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+nav.main a:hover {
+  background-color: rgb(90, 207, 23);
+  transform: translateX(20px);
+}
+
+nav.main a.active {
+  color: white;
+  background-color: rgb(192, 120, 32);
+  border-left: 10px red solid;
+  transform: translateX(0px);
+}

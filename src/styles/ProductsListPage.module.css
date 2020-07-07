@@ -1,0 +1,8 @@
+.list h1 {
+  color: greenyellow;
+}
+
+.list {
+  list-style-type: none;
+  text-decoration: none;
+}
