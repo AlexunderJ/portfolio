@@ -3,7 +3,6 @@ import "../styles/App.css";
 import { BrowserRouter as Router } from "react-router-dom";
 import Header from "./Header";
 import Page from "./Page";
-import Footer from "./Footer";
 import Navigation from "./Navigation";
 
 class App extends Component {
@@ -12,12 +11,11 @@ class App extends Component {
       <Router>
         <div className="App">
           <header>{<Header />}</header>
-          <main>
-            <aside>{<Navigation />}</aside>
-            <section className="blog">{<Page />}</section>
-          </main>
+
+          <section className="blog">{<Page />}</section>
+
+          <aside>{<Navigation />}</aside>
         </div>
-        <footer>{<Footer />}</footer>
       </Router>
     );
   }

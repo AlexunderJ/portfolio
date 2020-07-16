@@ -3,28 +3,37 @@ import { Route, Switch } from "react-router-dom";
 
 import classes from "../styles/Header.module.css";
 
-import img_gory from "../images/projekty/obrazy/góry1.png";
-import img_1234 from "../images/projekty/obrazy/1234.jpg";
-import img_grafiti from "../images/projekty/obrazy/grafiti.jpg";
+import logo from "../images/logos/logo_full.svg";
+import logo_sygnet from "../images/logos/logo_sygnet.svg";
+import { NavLink } from "react-router-dom";
 
 const Header = () => {
   return (
     <>
       <div className={classes.Header}>
-        <Switch>
-          <Route
-            path="/products"
-            render={() => <img alt="orbrazek" src={img_1234} />}
-          />
-          <Route
-            path="/contact"
-            render={() => <img alt="orbrazek" src={img_grafiti} />}
-          />
-          <Route
-            path="/"
-            render={() => <img alt="orbrazek" src={img_gory} />}
-          />
-        </Switch>
+        <NavLink to="/" exact="true">
+          <Switch>
+            <Route
+              exact
+              path="/"
+              render={() => <div className={classes.null_logo}></div>}
+            />
+            <Route
+              path="/"
+              render={() => (
+                <div className={classes.logo_sygnet}>
+                  <img alt="logo" src={logo_sygnet} />
+                </div>
+              )}
+            />
+          </Switch>
+        </NavLink>
+        <div className={`${classes.insta} ${classes.social}`}>
+          <span>instagram</span>
+        </div>
+        <div className={`${classes.fb} ${classes.social}`}>
+          <span>facebook</span>
+        </div>
       </div>
     </>
   );
