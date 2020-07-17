@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/porfolio/static/css/main.169d8ec1.chunk.css",
-    "main.js": "/porfolio/static/js/main.bc908e91.chunk.js",
-    "main.js.map": "/porfolio/static/js/main.bc908e91.chunk.js.map",
+    "main.css": "/porfolio/static/css/main.34188637.chunk.css",
+    "main.js": "/porfolio/static/js/main.518e3c87.chunk.js",
+    "main.js.map": "/porfolio/static/js/main.518e3c87.chunk.js.map",
     "runtime-main.js": "/porfolio/static/js/runtime-main.e6904c30.js",
     "runtime-main.js.map": "/porfolio/static/js/runtime-main.e6904c30.js.map",
-    "static/js/2.0d96ae84.chunk.js": "/porfolio/static/js/2.0d96ae84.chunk.js",
-    "static/js/2.0d96ae84.chunk.js.map": "/porfolio/static/js/2.0d96ae84.chunk.js.map",
+    "static/js/2.2ea4fcf6.chunk.js": "/porfolio/static/js/2.2ea4fcf6.chunk.js",
+    "static/js/2.2ea4fcf6.chunk.js.map": "/porfolio/static/js/2.2ea4fcf6.chunk.js.map",
     "index.html": "/porfolio/index.html",
-    "precache-manifest.5cc632fb81bcc9fb945f7860ad35d15f.js": "/porfolio/precache-manifest.5cc632fb81bcc9fb945f7860ad35d15f.js",
+    "precache-manifest.efd6343e84e83332881aec3f1ebadffc.js": "/porfolio/precache-manifest.efd6343e84e83332881aec3f1ebadffc.js",
     "service-worker.js": "/porfolio/service-worker.js",
-    "static/css/main.169d8ec1.chunk.css.map": "/porfolio/static/css/main.169d8ec1.chunk.css.map",
-    "static/js/2.0d96ae84.chunk.js.LICENSE.txt": "/porfolio/static/js/2.0d96ae84.chunk.js.LICENSE.txt",
-    "static/media/1234.jpg": "/porfolio/static/media/1234.23cf9a8e.jpg",
-    "static/media/grafiti.jpg": "/porfolio/static/media/grafiti.ff08ac10.jpg",
-    "static/media/góry1.png": "/porfolio/static/media/góry1.1e340f37.png"
+    "static/css/main.34188637.chunk.css.map": "/porfolio/static/css/main.34188637.chunk.css.map",
+    "static/js/2.2ea4fcf6.chunk.js.LICENSE.txt": "/porfolio/static/js/2.2ea4fcf6.chunk.js.LICENSE.txt",
+    "static/media/BRANDING.svg": "/porfolio/static/media/BRANDING.6ab783d5.svg",
+    "static/media/LOGO.svg": "/porfolio/static/media/LOGO.b190e564.svg",
+    "static/media/POS.svg": "/porfolio/static/media/POS.c602e96d.svg",
+    "static/media/logo_full.svg": "/porfolio/static/media/logo_full.26fbb99a.svg",
+    "static/media/logo_name.svg": "/porfolio/static/media/logo_name.42d465f9.svg",
+    "static/media/logo_sygnet.svg": "/porfolio/static/media/logo_sygnet.9b391428.svg",
+    "static/media/napis.svg": "/porfolio/static/media/napis.a14faae4.svg",
+    "static/media/webdesign.svg": "/porfolio/static/media/webdesign.0785ebe8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e6904c30.js",
-    "static/js/2.0d96ae84.chunk.js",
-    "static/css/main.169d8ec1.chunk.css",
-    "static/js/main.bc908e91.chunk.js"
+    "static/js/2.2ea4fcf6.chunk.js",
+    "static/css/main.34188637.chunk.css",
+    "static/js/main.518e3c87.chunk.js"
   ]
 }
