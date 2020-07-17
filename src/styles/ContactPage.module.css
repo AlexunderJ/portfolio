@@ -1,0 +1,67 @@
+.contact {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 25vh;
+  font-weight: 700;
+  width: 100%;
+  height: 100%;
+  padding: 15px;
+  min-height: 200px;
+  line-height: 1.4;
+  color: #09359a;
+  justify-content: start;
+  text-align: left;
+}
+.contact > div:first-child {
+  width: 100%;
+  height: 20%;
+  flex-grow: 1;
+  z-index: 99;
+}
+.contact div:nth-child(2) {
+  display: flex;
+  color: #fffdfd;
+  margin-right: 3rem;
+  position: relative;
+  z-index: 10;
+}
+.contact div:nth-child(2)::after {
+  position: absolute;
+  content: "";
+  width: 55vh;
+  height: 55vh;
+  top: -10vh;
+  left: -1vh;
+  border-radius: 50%;
+  background-color: #f50000;
+  z-index: -1;
+}
+.contact div:nth-child(2) > div {
+  color: #09359a;
+  margin-left: 3rem;
+}
+
+.dane {
+  display: flex;
+  align-self: flex-end;
+  flex-direction: column;
+  font-weight: 100;
+  font-size: 1.5rem;
+  width: 100%;
+  text-align: right;
+}
+.dane a {
+  text-decoration: none;
+  display: block;
+  color: #fffdfd;
+}
+.dane a:first-child {
+  color: #f50000;
+}
+.dane a:first-child span {
+  color: #fffdfd;
+}
+.dane a span {
+  color: #f50000;
+}
