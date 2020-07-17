@@ -24,6 +24,7 @@ const Navigation = () => {
   return (
     <nav className={classes.main}>
       <ul>{menu}</ul>
+      <div className={classes.strip}></div>
     </nav>
   );
 };

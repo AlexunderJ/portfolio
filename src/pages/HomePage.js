@@ -1,38 +1,29 @@
 import React from "react";
-import Article from "../components/Article/Article";
+import logo from "../images/logos/logo_full.svg";
+import pos from "../images/logos/POS.svg";
+import branding from "../images/logos/BRANDING.svg";
+import reklama from "../images/logos/napis.svg";
+import webdesign from "../images/logos/webdesign.svg";
+import logoSVG from "../images/logos/LOGO.svg";
+import classes from "../styles/HomePage.module.css";
 
 //Api rest
 
-const articles = [
-  {
-    id: 1,
-    title: "Kim jesteśmy",
-    author: "Jankowski Olek",
-    text:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloribus blanditiis, facilis similique iusto, expedita aspernatur quos, eligendi soluta placeat minima sapiente! Ea, veniam ducimus soluta cumque fugit cupiditate sed ipsum.oremipsum",
-  },
-  {
-    id: 2,
-    title: "Do kąd zmierzamy",
-    author: "Jankowski Olek",
-    text:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloribus blanditiis, facilis similique iusto, expedita aspernatur quos, eligendi soluta placeat minima sapiente! Ea, veniam ducimus soluta cumque fugit cupiditate sed ipsum.oremipsum",
-  },
-  {
-    id: 3,
-    title: "Skąd przychodzimy",
-    author: "Jankowski Olek",
-    text:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloribus blanditiis, facilis similique iusto, expedita aspernatur quos, eligendi soluta placeat minima sapiente! Ea, veniam ducimus soluta cumque fugit cupiditate sed ipsum.oremipsum",
-  },
-];
-
 const HomePage = () => {
-  const articleList = articles.map((article) => (
-    <Article key={article.id} {...article} />
-  ));
-
-  return <div>{articleList}</div>;
+  return (
+    <div className={classes.wraper}>
+      <div className={classes.logoHero}>
+        <img alt="logo" src={logo} />
+      </div>
+      <div>
+        <img className={classes.n1} alt="rek" src={reklama}></img>
+        <img className={classes.n2} alt="logoSVG" src={logoSVG}></img>
+        <img className={classes.n3} alt="pos" src={pos}></img>
+        <img className={classes.n4} alt="webdesign" src={webdesign}></img>
+        <img className={classes.n5} alt="branding" src={branding}></img>
+      </div>
+    </div>
+  );
 };
 
 export default HomePage;

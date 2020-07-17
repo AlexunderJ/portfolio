@@ -1,0 +1,52 @@
+.wraper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.logoHero {
+  box-sizing: border-box;
+  background-color: #09359a;
+  padding: 5rem 5rem;
+  width: 100%;
+}
+
+.logoHero img {
+  width: 70%;
+}
+.logoHero ~ div {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.n1 {
+  position: absolute;
+  width: 15%;
+  left: 10%;
+  top: 5%;
+}
+.n2 {
+  position: absolute;
+  width: 30%;
+  left: 0%;
+  top: 2%;
+}
+.n3 {
+  position: absolute;
+  width: 15%;
+  top: 20%;
+  right: 1%;
+}
+.n4 {
+  position: absolute;
+  width: 50%;
+  top: 35%;
+  left: 3%;
+}
+.n5 {
+  position: absolute;
+  width: 105%;
+  bottom: -1rem;
+  left: 0rem;
+}
