@@ -4,7 +4,7 @@ import classes from "../styles/Navigation.module.css";
 
 const list = [
   { name: "kontakt", path: "/contact" },
-  { name: "portfolio", path: "/products" },
+  { name: "portfolio", path: "/portfolio" },
   { name: "o mnie", path: "/about" },
 ];
 
