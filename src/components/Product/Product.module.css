@@ -1,0 +1,12 @@
+.product img {
+  display: block;
+  object-fit: contain;
+  max-width: 100vh;
+  max-height: 100vh;
+}
+.galery {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
