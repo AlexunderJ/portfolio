@@ -9,7 +9,7 @@ const ProductPage = ({ match }) => {
         <h1>Product</h1>
       </div>
       <Product name={match.params.name} />
-      <Link to="/portfolio">Lista Prodóktów</Link>
+      <Link to="/portfolio">Lista Projektów</Link>
     </>
   );
 };
