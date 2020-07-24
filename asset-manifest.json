@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/porfolio/static/css/main.db29e2ec.chunk.css",
-    "main.js": "/porfolio/static/js/main.e55d662e.chunk.js",
-    "main.js.map": "/porfolio/static/js/main.e55d662e.chunk.js.map",
+    "main.css": "/porfolio/static/css/main.68171821.chunk.css",
+    "main.js": "/porfolio/static/js/main.1fbd44bd.chunk.js",
+    "main.js.map": "/porfolio/static/js/main.1fbd44bd.chunk.js.map",
     "runtime-main.js": "/porfolio/static/js/runtime-main.e6904c30.js",
     "runtime-main.js.map": "/porfolio/static/js/runtime-main.e6904c30.js.map",
     "static/js/2.0bc181f2.chunk.js": "/porfolio/static/js/2.0bc181f2.chunk.js",
     "static/js/2.0bc181f2.chunk.js.map": "/porfolio/static/js/2.0bc181f2.chunk.js.map",
     "index.html": "/porfolio/index.html",
-    "precache-manifest.98726e71cb6d8c17a191fdaaf93c8880.js": "/porfolio/precache-manifest.98726e71cb6d8c17a191fdaaf93c8880.js",
+    "precache-manifest.69fc025d2421212ce0fcd1b9a4546dde.js": "/porfolio/precache-manifest.69fc025d2421212ce0fcd1b9a4546dde.js",
     "service-worker.js": "/porfolio/service-worker.js",
-    "static/css/main.db29e2ec.chunk.css.map": "/porfolio/static/css/main.db29e2ec.chunk.css.map",
+    "static/css/main.68171821.chunk.css.map": "/porfolio/static/css/main.68171821.chunk.css.map",
     "static/js/2.0bc181f2.chunk.js.LICENSE.txt": "/porfolio/static/js/2.0bc181f2.chunk.js.LICENSE.txt",
     "static/media/1234.jpg": "/porfolio/static/media/1234.23cf9a8e.jpg",
     "static/media/7-Fashion Brand Wordmark OAKAO-01.png": "/porfolio/static/media/7-Fashion Brand Wordmark OAKAO-01.fb347bd1.png",
@@ -61,7 +61,7 @@
   "entrypoints": [
     "static/js/runtime-main.e6904c30.js",
     "static/js/2.0bc181f2.chunk.js",
-    "static/css/main.db29e2ec.chunk.css",
-    "static/js/main.e55d662e.chunk.js"
+    "static/css/main.68171821.chunk.css",
+    "static/js/main.1fbd44bd.chunk.js"
   ]
 }
