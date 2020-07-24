@@ -123,3 +123,5 @@
   line-height: 3rem;
   z-index: 103;
 }
+@media screen and (max-width: 900px) {
+}

@@ -15,7 +15,7 @@ const HomePage = () => {
       <div className={classes.logoHero}>
         <img alt="logo" src={logo} />
       </div>
-      <div>
+      <div className={classes.words}>
         <img className={classes.n1} alt="rek" src={reklama}></img>
         <img className={classes.n2} alt="logoSVG" src={logoSVG}></img>
         <img className={classes.n3} alt="pos" src={pos}></img>
