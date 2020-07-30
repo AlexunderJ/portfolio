@@ -14,24 +14,29 @@ const ContactPage = () => {
         <h3>Nazywam się Aleksander Jankowski i uwielbiam tworzyć. </h3>
         <p>
           Zawsze zajmowałem się „kreatywnymi” rzeczami, od szkicowania przez
-          pisanie do projektowania. Podczas mojego podróży przez życie zawodowe
-          udało mi się zdobyć kilka unikatowych umiejętności, zrealizować trochę
-          niezwykłych projektów i poznać wspaniałych ludzi.{" "}
+          pisanie aż do projektowania. Podczas mojej podróży przez życie
+          zawodowe udało mi się zdobyć kilka unikatowych umiejętności,
+          zrealizować wiele niezwykłych projektów i poznać wspaniałych i
+          inspirujących ludzi.
         </p>
         <p>
-          Moja przygoda z projektowaniem zaczęła się od tworzenia elementów
+          Moja przygoda z designem zaczęła się od tworzenia elementów
           marketingowych od strony technologicznej i zawsze związana była z
-          wytworzeniem nośników reklamy. W raz z rozwojem projektów zmieniały
-          się potrzeby projektowania. Przez wizualizację 3D, rysunki techniczne,
-          a nawet korzystanie z maszyn CNC przeszedłem do projektów graficznych.
-          Na tym polu też zawsze związany byłem z techniczną stroną wdrożenia
-          moich projektów.{" "}
+          wytwarzaniem nośników reklamy. Wraz z rozwojem projektów zmieniały się
+          potrzeby projektowania. Od wizualizacji 3D, rysunków technicznych, a
+          nawet korzystania z maszyn CNC przeszedłem do projektów graficznych.
+          Na tym polu również zawsze związany byłem z techniczną stroną
+          wdrożenia moich projektów.
         </p>
         <p>
-          Aktualnie najmocniej eksploatuję medium jakim jest internet, coraz
-          głębiej poznaję jego możliwości. Ponieważ całe moje doświadczenie od
-          samego początku jest komercyjne, szybko nauczyłem się, że z klientami
-          łączy mnie cel, dlatego świetnie nam się współpracuje.{" "}
+          Aktualnie najmocniej eksploatuję medium jakim jest internet - coraz
+          głębiej poznaję jego możliwości.
+        </p>
+        <p>
+          Całe moje doświadczenie, od samego początku, jest komercyjne. Szybko
+          nauczyłem się, że z klientami łączy mnie cel, dlatego świetnie nam się
+          współpracuje. Doskonale rozumiem wyzwania z jakimi trzeba się zmierzyć
+          i dostarczam rozwiązania skrojone dokładnie do potrzeb klienta.
         </p>
         <p>Zapraszam do współpracy.</p>
       </div>

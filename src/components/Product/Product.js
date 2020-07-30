@@ -16,7 +16,7 @@ const Product = (props) => {
   return (
     <article className={classes.product}>
       <h1>{props.name}</h1>
-      <h1>{projekts[index].text}</h1>
+      <h2>{projekts[index].text}</h2>
       <div className={classes.galery}>{images}</div>
     </article>
   );

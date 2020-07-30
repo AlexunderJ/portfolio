@@ -39,8 +39,8 @@
 .arrow {
   display: block;
   position: relative;
-  top: 10vh;
-  left: 65vw;
+  top: 10%;
+  left: 65%;
 }
 
 .list {
@@ -138,8 +138,8 @@
   .arrow {
     display: block;
     position: relative;
-    top: 10vh;
-    left: 65vw;
+    top: 10%;
+    left: 65%;
   }
 
   .list {

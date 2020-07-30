@@ -53,6 +53,13 @@ nav.main .strip {
   height: 100vh;
   z-index: 1;
 }
+
+@media screen and (max-height: 800px) and (orientation: landscape) {
+  nav.main a {
+    font-size: 2rem;
+  }
+}
+
 @media screen and (max-width: 900px) {
   nav.main {
     position: fixed;
