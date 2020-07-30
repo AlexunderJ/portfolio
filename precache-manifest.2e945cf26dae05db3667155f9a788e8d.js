@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7690aab69a5919644c4ab2619b4b362",
+    "revision": "c49a070caed08cba82b495e2ff639920",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "2fd17bc409b3f360a3ad",
-    "url": "/portfolio/static/css/main.b103b477.chunk.css"
+    "revision": "4c21d837300957eb477a",
+    "url": "/portfolio/static/css/main.0deb4929.chunk.css"
   },
   {
     "revision": "868641bb7cd78f7a110d",
@@ -16,48 +16,60 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.0bc181f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2fd17bc409b3f360a3ad",
-    "url": "/portfolio/static/js/main.f06d86b0.chunk.js"
+    "revision": "4c21d837300957eb477a",
+    "url": "/portfolio/static/js/main.7fcb479f.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
   },
   {
+    "revision": "1ad075f91e59ce58945a10bf5da97675",
+    "url": "/portfolio/static/media/1.1ad075f9.png"
+  },
+  {
+    "revision": "a04af45001a1ed4e25ac034499fc1d57",
+    "url": "/portfolio/static/media/1.a04af450.jpg"
+  },
+  {
+    "revision": "c70e41f81b5beddfdfe614facdfd930e",
+    "url": "/portfolio/static/media/1.c70e41f8.png"
+  },
+  {
     "revision": "23cf9a8ec1b6221a906df76d9159d82c",
     "url": "/portfolio/static/media/1234.23cf9a8e.jpg"
+  },
+  {
+    "revision": "c63adfd0903529495084503d6258c602",
+    "url": "/portfolio/static/media/7-Fashion Brand Wordmark OAKAO-.c63adfd0.png"
   },
   {
     "revision": "fb347bd112d18aa729d293edbba3dcab",
     "url": "/portfolio/static/media/7-Fashion Brand Wordmark OAKAO-01.fb347bd1.png"
   },
   {
-    "revision": "c63adfd0903529495084503d6258c602",
-    "url": "/portfolio/static/media/7-Fashion Brand Wordmark OAKAO-02.c63adfd0.png"
-  },
-  {
     "revision": "f3d4035d1062a9d2224f3c4a833dc7d9",
     "url": "/portfolio/static/media/7-Fashion Brand Wordmark OAKAO-05.f3d4035d.png"
+  },
+  {
+    "revision": "fe55f57c5e44c3c606e1bde31e3ce560",
+    "url": "/portfolio/static/media/7-Fashion Brand Wordmark OAKAO-2.fe55f57c.png"
+  },
+  {
+    "revision": "1666fa7abb2c26b35e83a03003e1d74a",
+    "url": "/portfolio/static/media/A2.1666fa7a.png"
   },
   {
     "revision": "6ab783d5fed990b750a4c56b6bd58d02",
     "url": "/portfolio/static/media/BRANDING.6ab783d5.svg"
   },
   {
-    "revision": "9ffb65e374e858a0c9ff78563160fdec",
-    "url": "/portfolio/static/media/Bunny-65.9ffb65e3.jpg"
-  },
-  {
     "revision": "4d71baae9136a066b6d73412fa9ccd84",
-    "url": "/portfolio/static/media/Bunny-652.4d71baae.jpg"
+    "url": "/portfolio/static/media/Bunny-1.4d71baae.jpg"
   },
   {
     "revision": "c57287b717ed3e4452dc019bb2f07e38",
     "url": "/portfolio/static/media/Bunny-66.c57287b7.jpg"
-  },
-  {
-    "revision": "bcf1039bef87545dceab3fc20ce362a4",
-    "url": "/portfolio/static/media/IMG_0173.bcf1039b.jpg"
   },
   {
     "revision": "b190e564e9c68204d9956295ffe12c5e",
@@ -84,16 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/POS.c602e96d.svg"
   },
   {
-    "revision": "fe55f57c5e44c3c606e1bde31e3ce560",
-    "url": "/portfolio/static/media/Tshirt-Mockup-PSD.fe55f57c.png"
-  },
-  {
     "revision": "11dc577fd5885e99278ce4bea17dfa2d",
     "url": "/portfolio/static/media/Untitled design.11dc577f.png"
-  },
-  {
-    "revision": "c70e41f81b5beddfdfe614facdfd930e",
-    "url": "/portfolio/static/media/Web 1920 – 5.c70e41f8.png"
   },
   {
     "revision": "0bb5a9152e44135e51cfe3dce45683eb",
@@ -102,14 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "90ce9a10dcd16650197120ec52e8b3a3",
     "url": "/portfolio/static/media/Web 1920 – 7.90ce9a10.png"
-  },
-  {
-    "revision": "8a0bec962d830e066eba0ca971f91c2a",
-    "url": "/portfolio/static/media/Zasób 1.8a0bec96.png"
-  },
-  {
-    "revision": "1ad075f91e59ce58945a10bf5da97675",
-    "url": "/portfolio/static/media/abstrakt1.1ad075f9.png"
   },
   {
     "revision": "839656c7bd0ed6bd94f622954073383a",
@@ -126,6 +122,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b4750f3a06ff196ea720e26eee98be1c",
     "url": "/portfolio/static/media/export logo-15.b4750f3a.png"
+  },
+  {
+    "revision": "8ccf3cc9819368fc92264d3f6cc18f0e",
+    "url": "/portfolio/static/media/formaty2-08.8ccf3cc9.png"
+  },
+  {
+    "revision": "81aa2707f69fe798fa6cd0df67e50836",
+    "url": "/portfolio/static/media/foto4.81aa2707.jpg"
+  },
+  {
+    "revision": "826daf542cb2a8c9486f5da7b8b51536",
+    "url": "/portfolio/static/media/glowa_5.826daf54.jpg"
   },
   {
     "revision": "ff08ac10f79322badb3cfb3e0c66dc98",
@@ -148,6 +156,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/hoodie6.abf3f9d1.jpg"
   },
   {
+    "revision": "9ced6fa9d4fc8aa73f88f72dbb9cee6b",
+    "url": "/portfolio/static/media/hzbunny-6.9ced6fa9.jpg"
+  },
+  {
     "revision": "b815eaff8fb3e3bdbaab760c37698d53",
     "url": "/portfolio/static/media/ilustracja1.b815eaff.png"
   },
@@ -168,20 +180,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/napis.a14faae4.svg"
   },
   {
-    "revision": "8f9501e0882e7495d99abc2f42ec9fb8",
-    "url": "/portfolio/static/media/nowelogo obok copy1-10.8f9501e0.jpg"
-  },
-  {
     "revision": "933ddd2688f7a02635c8088792becea5",
     "url": "/portfolio/static/media/nowelogo obok copy1-11.933ddd26.jpg"
-  },
-  {
-    "revision": "37eb2254ce9a91a88b9eebd88d03ad30",
-    "url": "/portfolio/static/media/nowelogo obok copy1-13.37eb2254.jpg"
-  },
-  {
-    "revision": "94e804cb6ccc644ca56eea141c0b2538",
-    "url": "/portfolio/static/media/preview.94e804cb.jpg"
   },
   {
     "revision": "f549c2566d69a1c9c8ee91bd1d34297a",
