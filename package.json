@@ -1,6 +1,6 @@
 {
-  "__homepage__": "http://aleksanderjankowski.pl/",
   "homepage": "https://alexunderj.github.io/portfolio/",
+  "__homepage__": "http://aleksanderjankowski.pl/",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
